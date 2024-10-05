@@ -82,8 +82,8 @@ npm install react@18.2.0 react-native@0.74.5
 
 Instale as bibliotecas do React e React Native com os comandos:
 
-npm install @react-native-async-storage/async-storage@^2.0.0
-npm install @react-native-community/masked-view@^0.1.11
+npm install @react-native-async-storage/async-storage@^2.0.0\n
+npm install @react-native-community/masked-view@^0.1.11\n
 npm install @react-native-picker/picker@^2.7.5
 npm install @react-navigation/native@^6.1.18
 npm install @react-navigation/native-stack@^6.11.0
