@@ -155,6 +155,6 @@ Este projeto está licenciado sob os termos da licença MIT.
 # 👥 Autores
 
 - [Carolina de Moraes Carneiro](https://github.com/carolinamor4es)
-- [Autor 2](https://github.com/autor2)
+- [Cibelly Henrique Nogueira Batista](https://github.com/cibellyhnb)
 - [Joab Kaimon da Silva Oliveira](https://github.com/JoabKaimon)
-- [Autor 2](https://github.com/autor2)
+- [Raimundo José Santiago Netto](https://github.com/HidrocarboNetto)
