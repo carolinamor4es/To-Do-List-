@@ -27,11 +27,27 @@ Exemplo:
 > "Esse projeto é uma aplicação web para gerenciamento de listas de presença em eventos. Ele permite que os usuários registrem suas presenças e visualizem relatórios sobre a frequência."
 
 ## 🔧 Pré-requisitos
-Liste as ferramentas e versões necessárias para rodar o projeto. Por exemplo:
 
-- Node.js >= 14.17.0
-- NPM >= 6.14.13
-- Docker (opcional)
+- Node.js >= 20.17.0
+- NPM >= 10.8.2
+- expo >= 51.0.28
+- react >= 18.2.0
+- react-native >= 0.74.5
+- @react-native-async-storage/async-storage >= 2.0.0
+- @react-native-community/masked-view >= 0.1.11
+- @react-native-picker/picker >= 2.7.5
+- @react-navigation/native >= 6.1.18
+- @react-navigation/native-stack >= 6.11.0
+- @react-navigation/stack >= 6.4.1
+- expo-status-bar >= 1.12.1
+- react-native-elements >= 3.4.3
+- react-native-gesture-handler >= 2.16.1
+- react-native-reanimated >= 3.10.1
+- react-native-safe-area-context >= 4.10.5
+- react-native-screens >= 3.31.1
+- react-native-vector-icons >= 10.2.0
+- yup >= 1.4.0
+- formik >= 2.4.6
 
 ## 🚀 Instalação
 Explique como instalar o projeto localmente.
