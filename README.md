@@ -51,30 +51,30 @@ Exemplo:
 
 ## 🚀 Instalação
 
-1 Passo - Baixar o Node.js
+#1 Passo - Baixar o Node.js
 
 Vá na página de download e baixe a versão do seu sistema operacional. (Recomendado: 20.17.0)
 https://nodejs.org/en/download/prebuilt-installer
 
-2 Passo - Testar o Node.js 
+#2 Passo - Testar o Node.js 
 
 No terminal aplique o comando abaixo:
-# node -v
+node -v
 
 Vai retornar a versão 20.17.0 instalada
 
-3 Passo - instalação do Expo
+#3 Passo - instalação do Expo
 
 Instale pelo terminal com o comando:
-# npm install expo-cli --global
+npm install expo-cli --global
 
-4 Passo - Download do Projeto
+#4 Passo - Download do Projeto
 
 Baixe o projeto pelo link do GitHub
 https://github.com/carolinamor4es/To-Do-List-
 e abra no seu terminal
 
-5 Passo - Instalação dos requisitos
+#5 Passo - Instalação dos requisitos
 
 Utilize os seguintes comandos no terminal:
 
@@ -102,7 +102,7 @@ Instale também as configurações adicionais para o React Navigation
 npm install @react-navigation/native @react-navigation/stack @react-navigation/native-stack react-native-screens react-native-safe-area-context
 npm install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
 
-6 Passo - Inicio do Projeto
+#6 Passo - Inicio do Projeto
 
 Após a instalação, execute o projeto com:
 
