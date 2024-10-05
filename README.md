@@ -49,9 +49,9 @@ Exemplo:
 - yup >= 1.4.0
 - formik >= 2.4.6
 
-## 🚀 Instalação
+# 🚀 Instalação
 
-# 1 Passo - Baixar o Node.js
+## 1 Passo - Baixar o Node.js
 
 Vá na página de download e baixe a versão do seu sistema operacional. (Recomendado: 20.17.0)
 https://nodejs.org/en/download/prebuilt-installer
