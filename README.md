@@ -59,15 +59,17 @@ https://nodejs.org/en/download/prebuilt-installer
 # 2 Passo - Testar o Node.js 
 
 No terminal aplique o comando abaixo:
+```bash
 node -v
-
+```
 Vai retornar a versão 20.17.0 instalada
 
 # 3 Passo - instalação do Expo
 
 Instale pelo terminal com o comando:
+```bash
 npm install expo-cli --global
-
+```
 # 4 Passo - Download do Projeto
 
 Baixe o projeto pelo link do GitHub
@@ -78,7 +80,9 @@ e abra no seu terminal
 
 Utilize os seguintes comandos no terminal:
 
+```bash
 npm install react@18.2.0 react-native@0.74.5
+```
 
 Instale as bibliotecas do React e React Native com os comandos:
 
@@ -100,8 +104,10 @@ Instale as bibliotecas do React e React Native com os comandos:
 ```
 Instale também as configurações adicionais para o React Navigation
 
-- npm install @react-navigation/native @react-navigation/stack @react-navigation/native-stack react-native-screens react-native-safe-area-context
-- npm install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+```bash
+ npm install @react-navigation/native @react-navigation/stack @react-navigation/native-stack react-native-screens react-native-safe-area-context
+ npm install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+```
 
 # 6 Passo - Inicio do Projeto
 
@@ -111,9 +117,8 @@ Após a instalação, execute o projeto com:
 Baixe o aplicativo do Expo para Android ou IOS
 
 Execute o comando no terminal:
+```bash
 npx expo start
-
+```
 Escaneie o QR code e teste o projeto.
 
-
-```bash
