@@ -82,20 +82,20 @@ npm install react@18.2.0 react-native@0.74.5
 
 Instale as bibliotecas do React e React Native com os comandos:
 
-npm install @react-native-async-storage/async-storage@^2.0.0\n
-npm install @react-native-community/masked-view@^0.1.11\n
-npm install @react-native-picker/picker@^2.7.5
-npm install @react-navigation/native@^6.1.18
-npm install @react-navigation/native-stack@^6.11.0
-npm install @react-navigation/stack@^6.4.1
-npm install expo-status-bar@^1.12.1
-npm install react-native-elements@^3.4.3
-npm install react-native-gesture-handler@^2.16.1
-npm install react-native-reanimated@^3.10.1
-npm install react-native-safe-area-context@^4.10.5
-npm install react-native-screens@^3.31.1
-npm install react-native-vector-icons@^10.2.0
-npm install yup@^1.4.0 formik@^2.4.6
+-npm install @react-native-async-storage/async-storage@^2.0.0
+-npm install @react-native-community/masked-view@^0.1.11
+-npm install @react-native-picker/picker@^2.7.5
+-npm install @react-navigation/native@^6.1.18
+-npm install @react-navigation/native-stack@^6.11.0
+-npm install @react-navigation/stack@^6.4.1
+-npm install expo-status-bar@^1.12.1
+-npm install react-native-elements@^3.4.3
+-npm install react-native-gesture-handler@^2.16.1
+-npm install react-native-reanimated@^3.10.1
+-npm install react-native-safe-area-context@^4.10.5
+-npm install react-native-screens@^3.31.1
+-npm install react-native-vector-icons@^10.2.0
+-npm install yup@^1.4.0 formik@^2.4.6
 
 Instale também as configurações adicionais para o React Navigation
 
