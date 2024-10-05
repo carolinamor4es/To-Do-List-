@@ -10,7 +10,7 @@ Este aplicativo de lista de tarefas ajuda a reduzir a sobrecarga e permite um ac
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-v20.17.0-brightgreen)
 
-## 📋 Índice
+# 📋 Índice
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Pré-requisitos](#pré-requisitos)
 - [Instalação](#instalação)
@@ -20,7 +20,7 @@ Este aplicativo de lista de tarefas ajuda a reduzir a sobrecarga e permite um ac
 - [Licença](#licença)
 - [Autores](#autores)
 
-## 📝 Sobre o Projeto
+# 📝 Sobre o Projeto
 
 O aplicativo de lista de tarefas é uma solução prática e visualmente atraente para a organização do dia a dia. Destinado a qualquer pessoa que deseje gerenciar compromissos de maneira eficiente, ele é especialmente útil para aqueles que enfrentam sobrecarga mental e desorganização em suas atividades diárias.
 O aplicativo permite que os usuários criem e editem tarefas, adicionem notas e selecionem categorias específicas, facilitando a organização de diferentes áreas da vida. É um verdadeiro companheiro de produtividade que torna o gerenciamento de tarefas uma experiência tranquila e eficiente.
@@ -28,7 +28,7 @@ O aplicativo permite que os usuários criem e editem tarefas, adicionem notas e 
 Exemplo:
 > "Esse projeto é uma aplicação web para gerenciamento de listas de presença em eventos. Ele permite que os usuários registrem suas presenças e visualizem relatórios sobre a frequência."
 
-## 🔧 Pré-requisitos
+# 🔧 Pré-requisitos
 
 - Node.js >= 20.17.0
 - NPM >= 10.8.2
