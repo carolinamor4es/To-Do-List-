@@ -99,8 +99,8 @@ Instale as bibliotecas do React e React Native com os comandos:
 
 Instale também as configurações adicionais para o React Navigation
 
-npm install @react-navigation/native @react-navigation/stack @react-navigation/native-stack react-native-screens react-native-safe-area-context
-npm install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+- npm install @react-navigation/native @react-navigation/stack @react-navigation/native-stack react-native-screens react-native-safe-area-context
+- npm install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
 
 # 6 Passo - Inicio do Projeto
 
