@@ -1,6 +1,6 @@
 # To Do List
 
-Este aplicativo de lista de tarefas ajuda a organizar compromissos de forma prática e eficiente. Com ele, o usuário pode criar, editar, categorizar tarefas e adicionar notas importantes. O design intuitivo e a categorização tornam o gerenciamento diário mais organizado, ajudando a reduzir a sobrecarga e permitindo um acompanhamento claro de diferentes áreas da vida.
+Este aplicativo de lista de tarefas ajuda a reduzir a sobrecarga e permite um acompanhamento claro de diferentes áreas da vida. Com ele, o usuário pode criar, editar, categorizar tarefas e adicionar notas importantes.
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -21,7 +21,9 @@ Este aplicativo de lista de tarefas ajuda a organizar compromissos de forma prá
 - [Autores](#autores)
 
 ## 📝 Sobre o Projeto
-Descreva o que o projeto faz, para quem ele é destinado, e por que ele é útil. - cibelly
+
+O aplicativo de lista de tarefas é uma solução prática e visualmente atraente para a organização do dia a dia. Destinado a qualquer pessoa que deseje gerenciar compromissos de maneira eficiente, ele é especialmente útil para aqueles que enfrentam sobrecarga mental e desorganização em suas atividades diárias.
+O aplicativo permite que os usuários criem e editem tarefas, adicionem notas e selecionem categorias específicas, facilitando a organização de diferentes áreas da vida. É um verdadeiro companheiro de produtividade que torna o gerenciamento de tarefas uma experiência tranquila e eficiente.
 
 Exemplo:
 > "Esse projeto é uma aplicação web para gerenciamento de listas de presença em eventos. Ele permite que os usuários registrem suas presenças e visualizem relatórios sobre a frequência."
@@ -56,7 +58,7 @@ Exemplo:
 Vá na página de download e baixe a versão do seu sistema operacional. (Recomendado: 20.17.0)
 https://nodejs.org/en/download/prebuilt-installer
 
-# 2 Passo - Testar o Node.js 
+## 2 Passo - Testar o Node.js 
 
 No terminal aplique o comando abaixo:
 ```bash
@@ -64,19 +66,19 @@ node -v
 ```
 Vai retornar a versão 20.17.0 instalada
 
-# 3 Passo - instalação do Expo
+## 3 Passo - instalação do Expo
 
 Instale pelo terminal com o comando:
 ```bash
 npm install expo-cli --global
 ```
-# 4 Passo - Download do Projeto
+## 4 Passo - Download do Projeto
 
 Baixe o projeto pelo link do GitHub
 https://github.com/carolinamor4es/To-Do-List-
 e abra no seu terminal
 
-# 5 Passo - Instalação dos requisitos
+## 5 Passo - Instalação dos requisitos
 
 Utilize os seguintes comandos no terminal:
 
@@ -109,7 +111,7 @@ Instale também as configurações adicionais para o React Navigation
  npm install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
 ```
 
-# 6 Passo - Inicio do Projeto
+## 6 Passo - Inicio do Projeto
 
 Após a instalação, execute o projeto com:
 
