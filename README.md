@@ -124,3 +124,21 @@ npx expo start
 ```
 Escaneie o QR code e teste o projeto.
 
+# 📃 Como Usar
+
+## 1. Início:
+•	O usuário pode iniciar o app clicando no botão "Let's Start!". Após a abertura,  ele é direcionado para a tela principal com as listas de tarefas.
+## 2. Home/Principal:
+•	Na tela principal, o usuário pode visualizar suas categorias e todas as tarefas listadas. Para iniciar a busca de uma tarefa, basta clicar na barra de pesquisa "Search for Tasks". Além disso, ele tem a opção de selecionar e navegar entre as categorias existentes.
+## 3. Adicionar uma tarefa:
+•	Ao clicar no botão "Add Task" na tela principal, o usuário será direcionado para a tela "Add Task", onde poderá inserir o nome da tarefa, selecionar uma categoria e adicionar notas, se necessário.
+## 4. Seleção de Categoria:
+•	O usuário pode filtrar suas tarefas clicando nos ícones de categoria como "Personal" (Pessoal), "Shopping" (Compras), "Work" (Trabalho) ou "Health" (Saúde). Após a seleção, apenas as tarefas da categoria escolhida serão exibidas.
+## 5. Marcar Tarefas como Concluídas
+•	Na tela lista de tarefas, o usuário pode marcar uma tarefa como concluída clicando no quadrado ao lado da tarefa. Ao fazer isso, a tarefa será riscada, indicando que foi finalizada.
+## 6. Excluir uma tarefa:
+•	Para excluir uma tarefa, o usuário deve clicar no ícone de lixeira ao lado da tarefa desejada. Uma tela de confirmação será exibida, perguntando se o usuário realmente deseja excluir a tarefa.
+## 7. Busca e Filtros:
+•	O campo de busca permite que o usuário digite palavras-chave para localizar tarefas específicas. Caso tenha uma lista extensa, ele pode utilizar essa função para encontrar rapidamente tarefas pelo nome ou categoria.
+## 8. Editando uma Tarefa
+•	O usuário pode editar uma tarefa tocando diretamente na tarefa listada. Isso permitirá a alteração de detalhes, como o nome ou a categoria da tarefa. Após realizar as modificações, ele deverá confirmar as mudanças pressionando o botão "Update Task".
