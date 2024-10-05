@@ -21,7 +21,7 @@ Uma breve descrição do que o projeto faz e qual o seu propósito. - cibelly
 - [Autores](#autores)
 
 ## 📝 Sobre o Projeto
-Descreva o que o projeto faz, para quem ele é destinado, e por que ele é útil.
+Descreva o que o projeto faz, para quem ele é destinado, e por que ele é útil. - cibelly
 
 Exemplo:
 > "Esse projeto é uma aplicação web para gerenciamento de listas de presença em eventos. Ele permite que os usuários registrem suas presenças e visualizem relatórios sobre a frequência."
