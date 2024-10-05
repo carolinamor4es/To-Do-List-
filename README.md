@@ -15,8 +15,6 @@ Este aplicativo de lista de tarefas ajuda a reduzir a sobrecarga e permite um ac
 - [Pré-requisitos](#pré-requisitos)
 - [Instalação](#instalação)
 - [Como Usar](#como-usar)
-- [Testes](#testes)
-- [Contribuição](#contribuição)
 - [Licença](#licença)
 - [Autores](#autores)
 
@@ -149,3 +147,12 @@ Escaneie o QR code e teste o projeto.
 
 ## 8. Editando uma Tarefa
 •	O usuário pode editar uma tarefa tocando diretamente na tarefa listada. Isso permitirá a alteração de detalhes, como o nome ou a categoria da tarefa. Após realizar as modificações, ele deverá confirmar as mudanças pressionando o botão "Update Task".
+
+# ✔️ Licença
+
+Este projeto está licenciado sob os termos da licença MIT.
+
+# 👥 Autores
+
+- [Carolina de Moraes Carneiro](https://github.com/carolinamor4es)
+- [Autor 2](https://github.com/autor2)
