@@ -23,8 +23,6 @@ Este aplicativo de lista de tarefas ajuda a reduzir a sobrecarga e permite um ac
 O aplicativo de lista de tarefas é uma solução prática e visualmente atraente para a organização do dia a dia. Destinado a qualquer pessoa que deseje gerenciar compromissos de maneira eficiente, ele é especialmente útil para aqueles que enfrentam sobrecarga mental e desorganização em suas atividades diárias.
 O aplicativo permite que os usuários criem e editem tarefas, adicionem notas e selecionem categorias específicas, facilitando a organização de diferentes áreas da vida. É um verdadeiro companheiro de produtividade que torna o gerenciamento de tarefas uma experiência tranquila e eficiente.
 
-Exemplo:
-> "Esse projeto é uma aplicação web para gerenciamento de listas de presença em eventos. Ele permite que os usuários registrem suas presenças e visualizem relatórios sobre a frequência."
 
 # 🔧 Pré-requisitos
 
